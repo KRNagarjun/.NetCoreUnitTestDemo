@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\bin\Debug\netcoreapp2.1\SampleTests.deps.json
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\bin\Debug\netcoreapp2.1\SampleTests.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\bin\Debug\netcoreapp2.1\SampleTests.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\bin\Debug\netcoreapp2.1\SampleTests.dll
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\bin\Debug\netcoreapp2.1\SampleTests.pdb
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\obj\Debug\netcoreapp2.1\SampleTests.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\obj\Debug\netcoreapp2.1\SampleTests.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\obj\Debug\netcoreapp2.1\SampleTests.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\obj\Debug\netcoreapp2.1\SampleTests.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\obj\Debug\netcoreapp2.1\SampleTests.dll
+C:\Users\USER\OneDrive\Desktop\L&T\UnitTestingDemo\SampleTests\obj\Debug\netcoreapp2.1\SampleTests.pdb
